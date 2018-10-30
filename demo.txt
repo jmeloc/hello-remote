@@ -1,1 +1,2 @@
 Lorem ipsun.
+Lorem ipsun from local repo.
